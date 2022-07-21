@@ -18,4 +18,4 @@ https://jonnob.github.io/Convergence_of_graph.gif
 # mathjax test
 
 
-link to this page [testpage.md]
+link to this page (testpage)[testpage.md]
