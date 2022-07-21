@@ -11,5 +11,11 @@ Camden https://JonnoB.github.io/CamdenLowUse.html
 All London Offshore Flats as a percentage of all homes https://JonnoB.github.io/Offshore.html
 
 
-Convergence graph
+## Convergence graph
 https://jonnob.github.io/Convergence_of_graph.gif
+
+
+# mathjax test
+
+
+link to this page [testpage.md]
